@@ -1,0 +1,188 @@
+{
+  "useNodeDurations" : true,
+  "vertices" : [ {
+    "duration" : 4,
+    "name" : "Transport: Industrial Zone",
+    "description" : "",
+    "id" : 0,
+    "type" : "OTHER"
+  }, {
+    "duration" : 8,
+    "name" : "Street Cleaning: Residential Area",
+    "description" : "",
+    "id" : 1,
+    "type" : "OTHER"
+  }, {
+    "duration" : 9,
+    "name" : "Utilities: Downtown",
+    "description" : "",
+    "id" : 2,
+    "type" : "OTHER"
+  }, {
+    "duration" : 4,
+    "name" : "Utilities: Bridge",
+    "description" : "",
+    "id" : 3,
+    "type" : "OTHER"
+  }, {
+    "duration" : 7,
+    "name" : "Repairs: City Center",
+    "description" : "",
+    "id" : 4,
+    "type" : "OTHER"
+  }, {
+    "duration" : 2,
+    "name" : "Safety: Park",
+    "description" : "",
+    "id" : 5,
+    "type" : "OTHER"
+  }, {
+    "duration" : 2,
+    "name" : "Utilities: City Center",
+    "description" : "",
+    "id" : 6,
+    "type" : "OTHER"
+  } ],
+  "edgeCount" : 21,
+  "edges" : [ {
+    "weight" : 3,
+    "description" : "",
+    "from" : 5,
+    "to" : 2,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 2,
+    "to" : 4,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 5,
+    "to" : 4,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 6,
+    "to" : 2,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 5,
+    "to" : 3,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 6,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 6,
+    "to" : 4,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 2,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 0,
+    "to" : 6,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 0,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 3,
+    "to" : 2,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 4,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 4,
+    "to" : 3,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 6,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 2,
+    "to" : 6,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 1,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 1,
+    "to" : 3,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 2,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 4,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 0,
+    "to" : 2,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 1,
+    "to" : 2,
+    "type" : "OTHER"
+  } ],
+  "vertexCount" : 7,
+  "statistics" : {
+    "hasCycle" : true,
+    "maxInDegree" : 5,
+    "useNodeDurations" : true,
+    "density" : 0.5,
+    "typeDistribution" : {
+      "OTHER" : 7
+    },
+    "edgeCount" : 21,
+    "isConnected" : true,
+    "maxOutDegree" : 4,
+    "vertexCount" : 7
+  }
+}

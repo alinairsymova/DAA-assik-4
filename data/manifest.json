@@ -1,0 +1,126 @@
+{
+  "generatedAt" : "Wed Oct 29 20:33:30 GMT+05:00 2025",
+  "totalCategories" : 3,
+  "categories" : {
+    "small" : [ {
+      "hasCycle" : false,
+      "maxInDegree" : 3,
+      "fileName" : "small_graph_1.json",
+      "useNodeDurations" : true,
+      "density" : 0.25,
+      "typeDistribution" : {
+        "OTHER" : 8
+      },
+      "edgeCount" : 14,
+      "isConnected" : true,
+      "maxOutDegree" : 5,
+      "vertexCount" : 8
+    }, {
+      "hasCycle" : true,
+      "maxInDegree" : 5,
+      "fileName" : "small_graph_2.json",
+      "useNodeDurations" : true,
+      "density" : 0.5,
+      "typeDistribution" : {
+        "OTHER" : 7
+      },
+      "edgeCount" : 21,
+      "isConnected" : true,
+      "maxOutDegree" : 4,
+      "vertexCount" : 7
+    }, {
+      "hasCycle" : true,
+      "maxInDegree" : 3,
+      "fileName" : "small_graph_3.json",
+      "useNodeDurations" : true,
+      "density" : 0.15555555555555556,
+      "typeDistribution" : {
+        "OTHER" : 10
+      },
+      "edgeCount" : 14,
+      "isConnected" : false,
+      "maxOutDegree" : 2,
+      "vertexCount" : 10
+    } ],
+    "large" : [ {
+      "hasCycle" : true,
+      "maxInDegree" : 24,
+      "fileName" : "large_graph_1.json",
+      "useNodeDurations" : true,
+      "density" : 0.6,
+      "typeDistribution" : {
+        "OTHER" : 35
+      },
+      "edgeCount" : 714,
+      "isConnected" : true,
+      "maxOutDegree" : 27,
+      "vertexCount" : 35
+    }, {
+      "hasCycle" : false,
+      "maxInDegree" : 10,
+      "fileName" : "large_graph_2.json",
+      "useNodeDurations" : false,
+      "density" : 0.07884615384615384,
+      "typeDistribution" : {
+        "OTHER" : 40
+      },
+      "edgeCount" : 123,
+      "isConnected" : true,
+      "maxOutDegree" : 8,
+      "vertexCount" : 40
+    }, {
+      "hasCycle" : true,
+      "maxInDegree" : 4,
+      "fileName" : "large_graph_3.json",
+      "useNodeDurations" : true,
+      "density" : 0.05862068965517241,
+      "typeDistribution" : {
+        "OTHER" : 30
+      },
+      "edgeCount" : 51,
+      "isConnected" : false,
+      "maxOutDegree" : 3,
+      "vertexCount" : 30
+    } ],
+    "medium" : [ {
+      "hasCycle" : true,
+      "maxInDegree" : 2,
+      "fileName" : "medium_graph_1.json",
+      "useNodeDurations" : true,
+      "density" : 0.08095238095238096,
+      "typeDistribution" : {
+        "OTHER" : 15
+      },
+      "edgeCount" : 17,
+      "isConnected" : false,
+      "maxOutDegree" : 2,
+      "vertexCount" : 15
+    }, {
+      "hasCycle" : true,
+      "maxInDegree" : 9,
+      "fileName" : "medium_graph_2.json",
+      "useNodeDurations" : false,
+      "density" : 0.696969696969697,
+      "typeDistribution" : {
+        "OTHER" : 12
+      },
+      "edgeCount" : 92,
+      "isConnected" : true,
+      "maxOutDegree" : 10,
+      "vertexCount" : 12
+    }, {
+      "hasCycle" : true,
+      "maxInDegree" : 8,
+      "fileName" : "medium_graph_3.json",
+      "useNodeDurations" : true,
+      "density" : 0.19934640522875818,
+      "typeDistribution" : {
+        "OTHER" : 18
+      },
+      "edgeCount" : 61,
+      "isConnected" : true,
+      "maxOutDegree" : 6,
+      "vertexCount" : 18
+    } ]
+  }
+}

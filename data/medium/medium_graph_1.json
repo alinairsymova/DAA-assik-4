@@ -1,0 +1,212 @@
+{
+  "useNodeDurations" : true,
+  "vertices" : [ {
+    "duration" : 7,
+    "name" : "Transport: City Center",
+    "description" : "",
+    "id" : 0,
+    "type" : "OTHER"
+  }, {
+    "duration" : 7,
+    "name" : "Safety: Downtown",
+    "description" : "",
+    "id" : 1,
+    "type" : "OTHER"
+  }, {
+    "duration" : 8,
+    "name" : "Safety: City Center",
+    "description" : "",
+    "id" : 2,
+    "type" : "OTHER"
+  }, {
+    "duration" : 11,
+    "name" : "Safety: Park",
+    "description" : "",
+    "id" : 3,
+    "type" : "OTHER"
+  }, {
+    "duration" : 10,
+    "name" : "Safety: Downtown",
+    "description" : "",
+    "id" : 4,
+    "type" : "OTHER"
+  }, {
+    "duration" : 10,
+    "name" : "Sensor Monitoring: Highway",
+    "description" : "",
+    "id" : 5,
+    "type" : "OTHER"
+  }, {
+    "duration" : 8,
+    "name" : "Utilities: Highway",
+    "description" : "",
+    "id" : 6,
+    "type" : "OTHER"
+  }, {
+    "duration" : 12,
+    "name" : "Transport: Bridge",
+    "description" : "",
+    "id" : 7,
+    "type" : "OTHER"
+  }, {
+    "duration" : 6,
+    "name" : "Utilities: Downtown",
+    "description" : "",
+    "id" : 8,
+    "type" : "OTHER"
+  }, {
+    "duration" : 6,
+    "name" : "Repairs: Bridge",
+    "description" : "",
+    "id" : 9,
+    "type" : "OTHER"
+  }, {
+    "duration" : 7,
+    "name" : "Repairs: City Center",
+    "description" : "",
+    "id" : 10,
+    "type" : "OTHER"
+  }, {
+    "duration" : 10,
+    "name" : "Sensor Monitoring: Downtown",
+    "description" : "",
+    "id" : 11,
+    "type" : "OTHER"
+  }, {
+    "duration" : 10,
+    "name" : "Sensor Monitoring: Residential Area",
+    "description" : "",
+    "id" : 12,
+    "type" : "OTHER"
+  }, {
+    "duration" : 6,
+    "name" : "Street Cleaning: Industrial Zone",
+    "description" : "",
+    "id" : 13,
+    "type" : "OTHER"
+  }, {
+    "duration" : 3,
+    "name" : "Repairs: Park",
+    "description" : "",
+    "id" : 14,
+    "type" : "OTHER"
+  } ],
+  "edgeCount" : 17,
+  "edges" : [ {
+    "weight" : 1,
+    "description" : "",
+    "from" : 0,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 1,
+    "to" : 2,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 2,
+    "to" : 3,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 3,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 4,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 5,
+    "to" : 6,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 6,
+    "to" : 7,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 7,
+    "to" : 4,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 8,
+    "to" : 9,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 9,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 10,
+    "to" : 11,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 11,
+    "to" : 8,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 12,
+    "to" : 13,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 13,
+    "to" : 14,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 14,
+    "to" : 12,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 14,
+    "to" : 13,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 1,
+    "to" : 0,
+    "type" : "OTHER"
+  } ],
+  "vertexCount" : 15,
+  "statistics" : {
+    "hasCycle" : true,
+    "maxInDegree" : 2,
+    "useNodeDurations" : true,
+    "density" : 0.08095238095238096,
+    "typeDistribution" : {
+      "OTHER" : 15
+    },
+    "edgeCount" : 17,
+    "isConnected" : false,
+    "maxOutDegree" : 2,
+    "vertexCount" : 15
+  }
+}

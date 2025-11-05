@@ -1,0 +1,494 @@
+{
+  "useNodeDurations" : true,
+  "vertices" : [ {
+    "duration" : 3,
+    "name" : "Transport: Suburbs",
+    "description" : "",
+    "id" : 0,
+    "type" : "OTHER"
+  }, {
+    "duration" : 6,
+    "name" : "Data Analytics: Residential Area",
+    "description" : "",
+    "id" : 1,
+    "type" : "OTHER"
+  }, {
+    "duration" : 5,
+    "name" : "Sensor Monitoring: Highway",
+    "description" : "",
+    "id" : 2,
+    "type" : "OTHER"
+  }, {
+    "duration" : 9,
+    "name" : "Sensor Monitoring: Park",
+    "description" : "",
+    "id" : 3,
+    "type" : "OTHER"
+  }, {
+    "duration" : 6,
+    "name" : "Maintenance: Industrial Zone",
+    "description" : "",
+    "id" : 4,
+    "type" : "OTHER"
+  }, {
+    "duration" : 4,
+    "name" : "Safety: Suburbs",
+    "description" : "",
+    "id" : 5,
+    "type" : "OTHER"
+  }, {
+    "duration" : 6,
+    "name" : "Utilities: Park",
+    "description" : "",
+    "id" : 6,
+    "type" : "OTHER"
+  }, {
+    "duration" : 6,
+    "name" : "Maintenance: Suburbs",
+    "description" : "",
+    "id" : 7,
+    "type" : "OTHER"
+  }, {
+    "duration" : 4,
+    "name" : "Utilities: Downtown",
+    "description" : "",
+    "id" : 8,
+    "type" : "OTHER"
+  }, {
+    "duration" : 14,
+    "name" : "Maintenance: Residential Area",
+    "description" : "",
+    "id" : 9,
+    "type" : "OTHER"
+  }, {
+    "duration" : 14,
+    "name" : "Utilities: Park",
+    "description" : "",
+    "id" : 10,
+    "type" : "OTHER"
+  }, {
+    "duration" : 14,
+    "name" : "Repairs: Industrial Zone",
+    "description" : "",
+    "id" : 11,
+    "type" : "OTHER"
+  }, {
+    "duration" : 7,
+    "name" : "Repairs: Downtown",
+    "description" : "",
+    "id" : 12,
+    "type" : "OTHER"
+  }, {
+    "duration" : 5,
+    "name" : "Sensor Monitoring: City Center",
+    "description" : "",
+    "id" : 13,
+    "type" : "OTHER"
+  }, {
+    "duration" : 10,
+    "name" : "Street Cleaning: City Center",
+    "description" : "",
+    "id" : 14,
+    "type" : "OTHER"
+  }, {
+    "duration" : 4,
+    "name" : "Maintenance: Park",
+    "description" : "",
+    "id" : 15,
+    "type" : "OTHER"
+  }, {
+    "duration" : 8,
+    "name" : "Sensor Monitoring: Residential Area",
+    "description" : "",
+    "id" : 16,
+    "type" : "OTHER"
+  }, {
+    "duration" : 3,
+    "name" : "Transport: Industrial Zone",
+    "description" : "",
+    "id" : 17,
+    "type" : "OTHER"
+  } ],
+  "edgeCount" : 61,
+  "edges" : [ {
+    "weight" : 6,
+    "description" : "",
+    "from" : 5,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 16,
+    "to" : 15,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 5,
+    "to" : 9,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 2,
+    "to" : 16,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 15,
+    "to" : 17,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 6,
+    "to" : 13,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 4,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 10,
+    "to" : 3,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 1,
+    "to" : 13,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 7,
+    "to" : 12,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 9,
+    "to" : 13,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 3,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 4,
+    "to" : 13,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 9,
+    "to" : 6,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 17,
+    "to" : 13,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 0,
+    "to" : 16,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 11,
+    "to" : 14,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 11,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 15,
+    "to" : 12,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 6,
+    "to" : 14,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 13,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 16,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 16,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 15,
+    "to" : 9,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 12,
+    "to" : 16,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 9,
+    "to" : 14,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 0,
+    "to" : 17,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 14,
+    "to" : 4,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 3,
+    "to" : 13,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 0,
+    "to" : 7,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 4,
+    "to" : 17,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 17,
+    "to" : 4,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 15,
+    "to" : 13,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 2,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 9,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 9,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 8,
+    "to" : 9,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 11,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 8,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 2,
+    "to" : 14,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 15,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 0,
+    "to" : 11,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 3,
+    "to" : 8,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 10,
+    "to" : 12,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 7,
+    "to" : 11,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 4,
+    "to" : 11,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 4,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 9,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 12,
+    "to" : 11,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 12,
+    "to" : 15,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 10,
+    "to" : 13,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 16,
+    "to" : 12,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 10,
+    "to" : 15,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 13,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 14,
+    "to" : 6,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 17,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 8,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 13,
+    "to" : 7,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 0,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 8,
+    "to" : 11,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 0,
+    "to" : 2,
+    "type" : "OTHER"
+  } ],
+  "vertexCount" : 18,
+  "statistics" : {
+    "hasCycle" : true,
+    "maxInDegree" : 8,
+    "useNodeDurations" : true,
+    "density" : 0.19934640522875818,
+    "typeDistribution" : {
+      "OTHER" : 18
+    },
+    "edgeCount" : 61,
+    "isConnected" : true,
+    "maxOutDegree" : 6,
+    "vertexCount" : 18
+  }
+}

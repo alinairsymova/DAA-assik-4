@@ -1,0 +1,506 @@
+{
+  "useNodeDurations" : true,
+  "vertices" : [ {
+    "duration" : 12,
+    "name" : "Transport: Bridge",
+    "description" : "",
+    "id" : 0,
+    "type" : "OTHER"
+  }, {
+    "duration" : 16,
+    "name" : "Street Cleaning: Suburbs",
+    "description" : "",
+    "id" : 1,
+    "type" : "OTHER"
+  }, {
+    "duration" : 7,
+    "name" : "Safety: Residential Area",
+    "description" : "",
+    "id" : 2,
+    "type" : "OTHER"
+  }, {
+    "duration" : 4,
+    "name" : "Repairs: Park",
+    "description" : "",
+    "id" : 3,
+    "type" : "OTHER"
+  }, {
+    "duration" : 6,
+    "name" : "Street Cleaning: Bridge",
+    "description" : "",
+    "id" : 4,
+    "type" : "OTHER"
+  }, {
+    "duration" : 15,
+    "name" : "Data Analytics: Residential Area",
+    "description" : "",
+    "id" : 5,
+    "type" : "OTHER"
+  }, {
+    "duration" : 8,
+    "name" : "Utilities: Park",
+    "description" : "",
+    "id" : 6,
+    "type" : "OTHER"
+  }, {
+    "duration" : 6,
+    "name" : "Street Cleaning: Bridge",
+    "description" : "",
+    "id" : 7,
+    "type" : "OTHER"
+  }, {
+    "duration" : 21,
+    "name" : "Maintenance: Downtown",
+    "description" : "",
+    "id" : 8,
+    "type" : "OTHER"
+  }, {
+    "duration" : 13,
+    "name" : "Utilities: Downtown",
+    "description" : "",
+    "id" : 9,
+    "type" : "OTHER"
+  }, {
+    "duration" : 9,
+    "name" : "Sensor Monitoring: Park",
+    "description" : "",
+    "id" : 10,
+    "type" : "OTHER"
+  }, {
+    "duration" : 15,
+    "name" : "Data Analytics: Bridge",
+    "description" : "",
+    "id" : 11,
+    "type" : "OTHER"
+  }, {
+    "duration" : 24,
+    "name" : "Repairs: Bridge",
+    "description" : "",
+    "id" : 12,
+    "type" : "OTHER"
+  }, {
+    "duration" : 14,
+    "name" : "Repairs: City Center",
+    "description" : "",
+    "id" : 13,
+    "type" : "OTHER"
+  }, {
+    "duration" : 22,
+    "name" : "Street Cleaning: Bridge",
+    "description" : "",
+    "id" : 14,
+    "type" : "OTHER"
+  }, {
+    "duration" : 21,
+    "name" : "Utilities: Downtown",
+    "description" : "",
+    "id" : 15,
+    "type" : "OTHER"
+  }, {
+    "duration" : 20,
+    "name" : "Repairs: City Center",
+    "description" : "",
+    "id" : 16,
+    "type" : "OTHER"
+  }, {
+    "duration" : 3,
+    "name" : "Maintenance: Suburbs",
+    "description" : "",
+    "id" : 17,
+    "type" : "OTHER"
+  }, {
+    "duration" : 21,
+    "name" : "Street Cleaning: Bridge",
+    "description" : "",
+    "id" : 18,
+    "type" : "OTHER"
+  }, {
+    "duration" : 4,
+    "name" : "Safety: Downtown",
+    "description" : "",
+    "id" : 19,
+    "type" : "OTHER"
+  }, {
+    "duration" : 13,
+    "name" : "Repairs: Industrial Zone",
+    "description" : "",
+    "id" : 20,
+    "type" : "OTHER"
+  }, {
+    "duration" : 3,
+    "name" : "Maintenance: Downtown",
+    "description" : "",
+    "id" : 21,
+    "type" : "OTHER"
+  }, {
+    "duration" : 5,
+    "name" : "Maintenance: Residential Area",
+    "description" : "",
+    "id" : 22,
+    "type" : "OTHER"
+  }, {
+    "duration" : 2,
+    "name" : "Utilities: Industrial Zone",
+    "description" : "",
+    "id" : 23,
+    "type" : "OTHER"
+  }, {
+    "duration" : 9,
+    "name" : "Maintenance: Suburbs",
+    "description" : "",
+    "id" : 24,
+    "type" : "OTHER"
+  }, {
+    "duration" : 2,
+    "name" : "Utilities: Highway",
+    "description" : "",
+    "id" : 25,
+    "type" : "OTHER"
+  }, {
+    "duration" : 8,
+    "name" : "Transport: Park",
+    "description" : "",
+    "id" : 26,
+    "type" : "OTHER"
+  }, {
+    "duration" : 6,
+    "name" : "Sensor Monitoring: Highway",
+    "description" : "",
+    "id" : 27,
+    "type" : "OTHER"
+  }, {
+    "duration" : 9,
+    "name" : "Safety: Highway",
+    "description" : "",
+    "id" : 28,
+    "type" : "OTHER"
+  }, {
+    "duration" : 8,
+    "name" : "Utilities: Suburbs",
+    "description" : "",
+    "id" : 29,
+    "type" : "OTHER"
+  } ],
+  "edgeCount" : 51,
+  "edges" : [ {
+    "weight" : 5,
+    "description" : "",
+    "from" : 0,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 1,
+    "to" : 2,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 2,
+    "to" : 3,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 3,
+    "to" : 4,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 4,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 3,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 1,
+    "to" : 4,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 3,
+    "to" : 2,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 2,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 5,
+    "to" : 6,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 6,
+    "to" : 7,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 7,
+    "to" : 8,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 8,
+    "to" : 9,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 9,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 9,
+    "to" : 8,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 8,
+    "to" : 6,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 6,
+    "to" : 9,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 8,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 10,
+    "to" : 11,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 11,
+    "to" : 12,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 12,
+    "to" : 13,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 13,
+    "to" : 14,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 14,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 11,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 13,
+    "to" : 12,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 14,
+    "to" : 11,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 15,
+    "to" : 16,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 16,
+    "to" : 17,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 17,
+    "to" : 18,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 18,
+    "to" : 19,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 19,
+    "to" : 15,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 17,
+    "to" : 19,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 18,
+    "to" : 17,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 16,
+    "to" : 15,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 20,
+    "to" : 21,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 21,
+    "to" : 22,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 22,
+    "to" : 23,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 23,
+    "to" : 24,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 24,
+    "to" : 20,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 22,
+    "to" : 20,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 25,
+    "to" : 26,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 26,
+    "to" : 27,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 27,
+    "to" : 28,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 28,
+    "to" : 29,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 29,
+    "to" : 25,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 21,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 19,
+    "to" : 12,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 0,
+    "to" : 29,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 23,
+    "to" : 6,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 27,
+    "to" : 24,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 4,
+    "to" : 5,
+    "type" : "OTHER"
+  } ],
+  "vertexCount" : 30,
+  "statistics" : {
+    "hasCycle" : true,
+    "maxInDegree" : 4,
+    "useNodeDurations" : true,
+    "density" : 0.05862068965517241,
+    "typeDistribution" : {
+      "OTHER" : 30
+    },
+    "edgeCount" : 51,
+    "isConnected" : false,
+    "maxOutDegree" : 3,
+    "vertexCount" : 30
+  }
+}

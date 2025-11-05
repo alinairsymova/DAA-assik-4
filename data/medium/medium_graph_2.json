@@ -1,0 +1,644 @@
+{
+  "useNodeDurations" : false,
+  "vertices" : [ {
+    "duration" : 4,
+    "name" : "Transport: Bridge",
+    "description" : "",
+    "id" : 0,
+    "type" : "OTHER"
+  }, {
+    "duration" : 6,
+    "name" : "Safety: Bridge",
+    "description" : "",
+    "id" : 1,
+    "type" : "OTHER"
+  }, {
+    "duration" : 3,
+    "name" : "Transport: Industrial Zone",
+    "description" : "",
+    "id" : 2,
+    "type" : "OTHER"
+  }, {
+    "duration" : 9,
+    "name" : "Sensor Monitoring: Downtown",
+    "description" : "",
+    "id" : 3,
+    "type" : "OTHER"
+  }, {
+    "duration" : 3,
+    "name" : "Transport: Highway",
+    "description" : "",
+    "id" : 4,
+    "type" : "OTHER"
+  }, {
+    "duration" : 7,
+    "name" : "Maintenance: Suburbs",
+    "description" : "",
+    "id" : 5,
+    "type" : "OTHER"
+  }, {
+    "duration" : 6,
+    "name" : "Utilities: Residential Area",
+    "description" : "",
+    "id" : 6,
+    "type" : "OTHER"
+  }, {
+    "duration" : 4,
+    "name" : "Transport: Downtown",
+    "description" : "",
+    "id" : 7,
+    "type" : "OTHER"
+  }, {
+    "duration" : 4,
+    "name" : "Transport: Industrial Zone",
+    "description" : "",
+    "id" : 8,
+    "type" : "OTHER"
+  }, {
+    "duration" : 2,
+    "name" : "Sensor Monitoring: Highway",
+    "description" : "",
+    "id" : 9,
+    "type" : "OTHER"
+  }, {
+    "duration" : 5,
+    "name" : "Repairs: Park",
+    "description" : "",
+    "id" : 10,
+    "type" : "OTHER"
+  }, {
+    "duration" : 8,
+    "name" : "Sensor Monitoring: Highway",
+    "description" : "",
+    "id" : 11,
+    "type" : "OTHER"
+  } ],
+  "edgeCount" : 92,
+  "edges" : [ {
+    "weight" : 2,
+    "description" : "",
+    "from" : 10,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 1,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 11,
+    "to" : 6,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 4,
+    "to" : 2,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 4,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 0,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 10,
+    "to" : 9,
+    "type" : "OTHER"
+  }, {
+    "weight" : 8,
+    "description" : "",
+    "from" : 0,
+    "to" : 6,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 1,
+    "to" : 3,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 9,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 7,
+    "to" : 8,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 11,
+    "to" : 3,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 7,
+    "to" : 3,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 11,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 11,
+    "to" : 8,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 7,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 10,
+    "to" : 7,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 3,
+    "to" : 4,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 7,
+    "to" : 6,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 6,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 6,
+    "to" : 8,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 8,
+    "to" : 2,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 10,
+    "to" : 3,
+    "type" : "OTHER"
+  }, {
+    "weight" : 8,
+    "description" : "",
+    "from" : 6,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 8,
+    "to" : 11,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 10,
+    "to" : 6,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 5,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 3,
+    "to" : 7,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 1,
+    "to" : 4,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 7,
+    "to" : 4,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 5,
+    "to" : 2,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 8,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 5,
+    "to" : 8,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 9,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 0,
+    "to" : 8,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 0,
+    "to" : 7,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 0,
+    "to" : 2,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 7,
+    "to" : 11,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 4,
+    "to" : 9,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 8,
+    "to" : 4,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 9,
+    "to" : 3,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 9,
+    "to" : 8,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 2,
+    "to" : 0,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 10,
+    "to" : 11,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 1,
+    "to" : 7,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 10,
+    "to" : 8,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 8,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 8,
+    "to" : 7,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 9,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 5,
+    "to" : 3,
+    "type" : "OTHER"
+  }, {
+    "weight" : 8,
+    "description" : "",
+    "from" : 8,
+    "to" : 6,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 4,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 4,
+    "to" : 8,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 3,
+    "to" : 2,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 2,
+    "to" : 7,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 11,
+    "to" : 9,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 8,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 8,
+    "to" : 9,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 7,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 0,
+    "to" : 11,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 8,
+    "to" : 3,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 2,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 5,
+    "to" : 4,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 2,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 10,
+    "to" : 2,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 2,
+    "to" : 9,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 7,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 8,
+    "description" : "",
+    "from" : 10,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 8,
+    "description" : "",
+    "from" : 9,
+    "to" : 4,
+    "type" : "OTHER"
+  }, {
+    "weight" : 8,
+    "description" : "",
+    "from" : 7,
+    "to" : 9,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 3,
+    "to" : 11,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 2,
+    "to" : 4,
+    "type" : "OTHER"
+  }, {
+    "weight" : 8,
+    "description" : "",
+    "from" : 4,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 2,
+    "to" : 3,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 1,
+    "to" : 2,
+    "type" : "OTHER"
+  }, {
+    "weight" : 8,
+    "description" : "",
+    "from" : 5,
+    "to" : 7,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 4,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 6,
+    "description" : "",
+    "from" : 11,
+    "to" : 2,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 3,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 11,
+    "to" : 7,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 0,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 6,
+    "to" : 5,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 4,
+    "to" : 6,
+    "type" : "OTHER"
+  }, {
+    "weight" : 2,
+    "description" : "",
+    "from" : 0,
+    "to" : 9,
+    "type" : "OTHER"
+  }, {
+    "weight" : 1,
+    "description" : "",
+    "from" : 6,
+    "to" : 1,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 5,
+    "to" : 11,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 3,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 7,
+    "description" : "",
+    "from" : 1,
+    "to" : 8,
+    "type" : "OTHER"
+  }, {
+    "weight" : 5,
+    "description" : "",
+    "from" : 9,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 11,
+    "to" : 10,
+    "type" : "OTHER"
+  }, {
+    "weight" : 4,
+    "description" : "",
+    "from" : 2,
+    "to" : 11,
+    "type" : "OTHER"
+  }, {
+    "weight" : 3,
+    "description" : "",
+    "from" : 11,
+    "to" : 0,
+    "type" : "OTHER"
+  } ],
+  "vertexCount" : 12,
+  "statistics" : {
+    "hasCycle" : true,
+    "maxInDegree" : 9,
+    "useNodeDurations" : false,
+    "density" : 0.696969696969697,
+    "typeDistribution" : {
+      "OTHER" : 12
+    },
+    "edgeCount" : 92,
+    "isConnected" : true,
+    "maxOutDegree" : 10,
+    "vertexCount" : 12
+  }
+}
